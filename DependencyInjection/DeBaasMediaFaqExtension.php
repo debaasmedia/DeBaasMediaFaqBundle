@@ -10,7 +10,7 @@
     , Symfony\Component\HttpKernel\DependencyInjection\Extension;
 
   /**
-   * DoctrineExtensionsSluggableBundle.
+   * DeBaasMediaXhtmlExtension.
    *
    * @author  Marijn Huizendveld <marijn.huizendveld@gmail.com>
    */
